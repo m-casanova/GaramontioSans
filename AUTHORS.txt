@@ -1,0 +1,6 @@
+"Ysabeau" (file: AUTHORS.txt, repository: https://github.com/CatharsisFonts/Ysabeau)
+- Catharsis Fonts
+- Christian Thalmann <christian.d.thalmann@gmail.com>
+
+"Garamontio Sans" (additions and modifications)
+- Michele Casanova
