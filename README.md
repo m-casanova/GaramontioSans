@@ -1,7 +1,7 @@
 # Garamontio Sans
 - Versione 0.906: tentativo di migliorare compatibilità con _[Garamontio](https://github.com/m-casanova/Garamontio)_
 - Versione 0.902: fix frazioni
-- Versione 0.901: versione di prova con alcune variazioni rispetto a Ysabeau
+- Versione 0.901: versione di prova con alcune variazioni rispetto a [Ysabeau](https://github.com/CatharsisFonts/Ysabeau)
 
 Per maggiori informazioni e per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/GaramontioSans/).
 
