@@ -1,4 +1,5 @@
 # Garamontio Sans
+- Versione 0.911: fix minori e creazione file per versioni statiche del font (otf, ttf, woff, woff2)
 - Versione 0.906: tentativo di migliorare compatibilità con _[Garamontio](https://github.com/m-casanova/Garamontio)_
 - Versione 0.902: fix frazioni
 - Versione 0.901: versione di prova con alcune variazioni rispetto a [Ysabeau](https://github.com/CatharsisFonts/Ysabeau)
